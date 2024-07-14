@@ -4,7 +4,8 @@
 
 # Getting Started
 - Download and use any Java enabled IDE that you want.
-- Using your IDE download and open this application. Open the folder **notetaking** as a project.
+- Using your IDE, download or git clone this application and open it. Open the folder **notetaking** as a project.
+- The github repository for cloning this project is https://github.com/esoenclarence/OTA.git 
 - Run this application using RestServiceApplication.java.
 
 # To check if this application is working check the following endpoints
